@@ -29,7 +29,7 @@ This enables reading both new and old state.
 | player:die                         | player                             | A player died.                                                                     |
 | player:joined                      | player                             | A player joined the room.                                                          |
 | player:jump                        | player                             | A player jumps.                                                                    |
-| player:key:activate                | player, which key                  | A player activated a key. Example key parameter: "red key".                        |
+| player:​key:activate                | player, which key                  | A player activated a key. Example key parameter: "red key".                        |
 | player:left                        | player                             | A player left the room.                                                            |
 | player:move                        | x, y, x dir, y dir, x spd, y spd   | A player updated the moe state.                                                    |
 | player:togglegod                   | player                             | A player enabled/disabled god mode.                                                |
@@ -48,7 +48,7 @@ This enables reading both new and old state.
 | room:allowSpectate                 | new allow spectate setting         | The room allow spectate setting was changed.                                       |
 | room:allowParticleActions          | new allow particle actions setting | The room allow particle actions setting was changed.                               |
 | room:plays                         | plays                              | The amount of plays of the room got updated.                                       |
-| room:key:deactivate                | which key                          | A key got deactivated.                                                             |
+| room:​key:deactivate                | which key                          | A key got deactivated.                                                             |
 | room:reset                         |                                    | The room has been reset.                                                           |
 | room:load                          |                                    | The room has been reloaded from save.                                              |
 | room:save                          | autosaved                          | The room was saved. The argument is true if the save was triggered by autosave.    |
