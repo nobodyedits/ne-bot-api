@@ -1,5 +1,8 @@
 # Nobody Edits Bot API
 
+![npm](https://img.shields.io/npm/v/ne-bot-api)
+![GitHub](https://img.shields.io/github/license/nobodyedits/ne-bot-api)
+
 Requires Node.js 12.0+
 
 Early alpha. Hopefully no API breaks...
@@ -8,7 +11,7 @@ Cool idea for future: hook events such as activating keys and let the bot comple
 
 Documentation still TODO. Feel free to open a PR.
 You can check the available methods by reading the code right now.
-Be sure to check out the example, it shows most of the functionality.
+Be sure to check out the [example](https://github.com/nobodyedits/bot-example), it shows most of the functionality.
 
 Beware, there are probably bugs.
 Physics are not being processed right now.
