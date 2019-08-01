@@ -1,6 +1,6 @@
 # Nobody Edits Bot API
 
-![npm](https://img.shields.io/npm/v/ne-bot-api)
+[![npm](https://img.shields.io/npm/v/ne-bot-api)](https://www.npmjs.com/package/ne-bot-api)
 ![GitHub](https://img.shields.io/github/license/nobodyedits/ne-bot-api)
 
 Requires Node.js 12.0+
