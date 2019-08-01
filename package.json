@@ -16,6 +16,10 @@
     "index.js",
     "lib/"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/nobodyedits/ne-bot-api.git"
+  },
   "author": "NE Team",
   "license": "MIT"
 }
