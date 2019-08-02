@@ -27,7 +27,7 @@ This enables reading both new and old state.
 | -----------------                  | ---------------------------------- | ---------------------------------------------------------------------------------- |
 | bot:kick                           | message                            | Your bot got kicked by the server. Can happen for example by deleting the API key. |
 | bot:disconnect                     |                                    | Your bot got disconnected from the server.                                         |
-| player:coin:[gold|blue]:[got|lost] | player, new coin count             | A player got/lost a gold/blue coin.                                                |
+| player:coin:gold\|blue:got\|lost     | player, new coin count             | A player got/lost a gold/blue coin.                                                |
 | player:chat                        | player, message                    | A player sends a chat message.                                                     |
 | player:die                         | player                             | A player died.                                                                     |
 | player:joined                      | player                             | A player joined the room.                                                          |
