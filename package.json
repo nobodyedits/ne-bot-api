@@ -1,6 +1,6 @@
 {
   "name": "ne-bot-api",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Nobody Edits Bot API",
   "dependencies": {
     "node-fetch": "^2.5.0",
